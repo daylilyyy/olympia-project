@@ -9,8 +9,6 @@ import OlympiaList from "./OlympiaList";
 import OlympiaPicInfo from "./OlympiaPicInfo";
 import OlympiaProfileInfo from "./OlympiaProfileInfo";
 
-import "./style.scss";
-
 const Main = () => {
   const [data, setData] = useState(olympiaData);
   const [image, setImage] = useState(olympiaImgData);
@@ -39,16 +37,16 @@ const Main = () => {
 
   return (
     <div>
-      <div className="wrap">
-        <section className="content">
-          <div className="inner">
-            <h2>
-              <img src="./images/olympialogo.png" alt="" />
+      <div className="wrap w-[100%] bg-[#040707]">
+        <section className="content ">
+          <div className="inner pt-[30px] mb-[30px] mx-auto w-[1200px]">
+            <h2 className=" mb-[30px] border-b-[4px] border-solid border-[#eb2529]">
+              <img className="w-[50%] mb-[30px] m-auto" src="./images/olympialogo.png" alt="" />
             </h2>
             <OlympiaList data={data} showImg={showImg} />
           </div>
         </section>
-        <section className="info">
+        <section className="info m-auto w-[1200px] h-[600px] flex border-b-[4px] border-[#eb2529]">
           <OlympiaPicInfo image={image} />
           <OlympiaProfileInfo tab={tab} menu={menu} showBox={showBox} content={content} />
         </section>

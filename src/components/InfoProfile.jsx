@@ -4,18 +4,18 @@ const InfoProfile = ({ item }) => {
   const { id, name, korName, birth, nationality, height, weight } = item;
 
   return (
-    <div className="InfoProfile">
-      <h3>{name}</h3>
-      <span>{korName}</span>
+    <div className="InfoProfile text-left">
+      <h3 className="text-[40px] font-['JalnanGothic'] text-[#fdfbf9] m-[0px] font-bold">{name}</h3>
+      <span className="text-[20px] font-bold text-[#eb2529] mt-[10px] mb-[20px] font-['JalnanGothic'] block">{korName}</span>
       <hr />
-      <strong>출생</strong>
-      <p>{birth}</p>
-      <strong>국적</strong>
-      <p>{nationality}</p>
-      <strong>신장</strong>
-      <p>{height}</p>
-      <strong>체중</strong>
-      <p>{weight}</p>
+      <strong className="strong pt-[30px]">Birth</strong>
+      <p className="profilep">{birth}</p>
+      <strong className="strong">Nationality</strong>
+      <p className="profilep">{nationality}</p>
+      <strong className="strong">Height</strong>
+      <p className="profilep">{height}</p>
+      <strong className="strong">Weight</strong>
+      <p className="profilep">{weight}</p>
     </div>
   );
 };

@@ -24,11 +24,10 @@ a:hover {
 }
 
 body {
-  margin: 0;
-  display: flex;
+  background: #040707;
+  /* margin: 0 auto; */
+  /* display: flex; */
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
 }
 
 h1 {
@@ -66,4 +65,15 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "JalnanGothic";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_231029@1.1/JalnanGothic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
