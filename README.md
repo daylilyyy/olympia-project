@@ -13,6 +13,7 @@
 
 ## LINK
 
+![main](https://github.com/daylilyyy/olympia-project/assets/160338418/190da75d-df04-4335-b911-4546a86306be)
 <img >
 [link](https://daylily-olympia.netlify.app/)
 
@@ -20,6 +21,16 @@
 
 ### 1. 메인
 
-### 2. 로그인 / 회원가입
+![main](https://github.com/daylilyyy/olympia-project/assets/160338418/f5ecaac7-e684-46fd-bd1d-79de5245bdce)
 
-### 3. 게임정보
+### 2. item
+
+![itemclick-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/olympia-project/assets/160338418/efa55bb2-4868-4fa6-9038-acf33d5a7059)
+
+### 3. image
+
+![imgclick-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/olympia-project/assets/160338418/e7e6e2b4-792c-4548-aa3e-028aa349c716)
+
+### 3. profile
+
+![profileclick-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/olympia-project/assets/160338418/d83646a3-3171-49bf-ac6e-8e01e793bb21)
