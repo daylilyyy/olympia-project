@@ -27,10 +27,17 @@
 
 ![itemclick-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/olympia-project/assets/160338418/efa55bb2-4868-4fa6-9038-acf33d5a7059)
 
+- item hover시 이미지 scale 및 색상 변경
+- 각 item 클릭시 각각의 item에 맞게 하단 list 변경
+
 ### 3. image
 
 ![imgclick-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/olympia-project/assets/160338418/e7e6e2b4-792c-4548-aa3e-028aa349c716)
 
+- 대표이미지 하단에 작은 이미지 클릭시 대표이미지 변경
+
 ### 3. profile
 
 ![profileclick-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/olympia-project/assets/160338418/d83646a3-3171-49bf-ac6e-8e01e793bb21)
+
+- 프로필 / 오버뷰 / 커리어 클릭시 내용 변경
