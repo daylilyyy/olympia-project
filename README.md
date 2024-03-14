@@ -11,6 +11,34 @@
 
 ---
 
+## 컴포넌트 구조
+
+```
+OLYMPIA
+│
+├──public
+│    └── images
+└── src
+    ├── assets
+    │
+    ├── components
+    │    │
+    │    ├──── OlympiaItem.scss
+    │    ├──── InfoCareer.jsx
+    │    ├──── InfoOverview.jsx
+    │    ├──── InnfoProfile.jsx
+    │    ├──── OlympiaItem.jsx
+    │    ├──── OlympiaList.jsx
+    │    ├──── OlympiaMain.jsx
+    │    ├──── OlympiaPic.jsx
+    │    ├──── OlympiaPicInfo.jsx
+    │    ├──── OLiympiaProfile.jsx
+    │    ├──── OlympiaProfileInfo.jsx
+    │    └──── OlympiaTabList.jsx
+    │
+    └── App.jsx
+```
+
 ## LINK
 
 ![main](https://github.com/daylilyyy/olympia-project/assets/160338418/190da75d-df04-4335-b911-4546a86306be)
